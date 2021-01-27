@@ -1,0 +1,304 @@
+# Copyright (C) 2018 themerally
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: TR iBlogger Lite 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/tr-iblogger-lite\n"
+"POT-Creation-Date: 2018-12-28 21:05:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:20
+msgid "404 ERROR"
+msgstr ""
+
+#: 404.php:21
+msgid "Sorry the page you looking for could not be found"
+msgstr ""
+
+#: 404.php:22
+msgid "go to home page"
+msgstr ""
+
+#: 404.php:23
+msgid "or"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:60
+msgid ""
+"&copy; %1$s All Rights Reserved by %2$s. Theme Developed by %3$s. Powered by "
+"%4$s"
+msgstr ""
+
+#: footer.php:60
+msgid "Y"
+msgstr ""
+
+#: functions.php:55
+msgid "Primary"
+msgstr ""
+
+#: functions.php:56
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:122
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:124
+msgid "Add sidebar widgets here."
+msgstr ""
+
+#: functions.php:132
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:134
+msgid "Add footer logo here."
+msgstr ""
+
+#: functions.php:141
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:143
+msgid "Add footer recent post here."
+msgstr ""
+
+#: functions.php:150
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:152
+msgid "Add footer popular post here."
+msgstr ""
+
+#: functions.php:262
+msgid "Submit A Comment"
+msgstr ""
+
+#: functions.php:263
+msgid ""
+"<p class=\"comment-required-field\">Must be fill required * marked fields.</"
+"p>"
+msgstr ""
+
+#: inc/breadcrumb.php:42
+msgid "Author Archive "
+msgstr ""
+
+#: inc/breadcrumb.php:43
+msgid "Search Results "
+msgstr ""
+
+#: inc/breadcrumb.php:44 inc/breadcrumb.php:47 inc/breadcrumb.php:48
+msgid "Archive for "
+msgstr ""
+
+#: inc/breadcrumb.php:45
+msgid "404 page"
+msgstr ""
+
+#: inc/breadcrumb.php:49
+msgid "Blog Archives "
+msgstr ""
+
+#. translators: 1: Date, 2: Time.
+#: inc/class-wp-bootstrap-comment-walker.php:53
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/class-wp-bootstrap-comment-walker.php:61
+msgid "Edit"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "Theme Help"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "TR iBlogger Lite Theme Help"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid ""
+"TR iBlogger Lite is a simple blog theme. For our pro version and any kind of "
+"support please visit : "
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "Select Your Layout"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Copyright Content"
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Show Footer Back To Top Button"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:55
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:62
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:72
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:89 template-parts/content-page.php:35
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/author-information.php:17
+msgid "E-mail : "
+msgstr ""
+
+#: template-parts/comment-arg.php:13
+msgid "Name"
+msgstr ""
+
+#: template-parts/comment-arg.php:18
+msgid "Email"
+msgstr ""
+
+#: template-parts/comment-arg.php:24
+msgid "Your Website:"
+msgstr ""
+
+#: template-parts/comment-arg.php:34
+msgid "Comments:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content.php:36
+msgid "Pages:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "TR iBlogger Lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid ""
+"https://www.themerally.com/product/tr-iblogger-lite-wordpress-blog-theme-for-"
+"blogger-and-marketers/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"TR iBlogger Lite is a clean, super flexible and fully responsive Bootstrap "
+"based WordPress Theme (try resizing your browser), suited for any blog site "
+"espcially for blogger, passive income coach and make money online niches."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "themerally"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.themerally.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Left Sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Right Sidebar"
+msgstr ""
